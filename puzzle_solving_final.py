@@ -3,7 +3,7 @@ This is a puzzle solving program  as follows.
 We are solving a Puzzle which involves us in making selections between numbers 1-9.
 The selection should be made in such a way that, the numbers we selected and distinct/unique i.e. without any repitations.
 This process involves, two mathematical operations such as, Multiplication and Addition as follows.
-sel1sel2*sel3=(o/p1[1]+o/p[2])+(sel4+sel5)=(o/p[3]+o/p[4])
+n1n2*n3=(o/p1[1]+o/p[2])+(n4+n5)=(o/p[3]+o/p[4])
 
 Initial Version:     Afrose Unissa
                     Salwa Sayeedul Hasan,    Date: 6th of December, 2021 
@@ -12,7 +12,7 @@ Initial Version:     Afrose Unissa
 """
 
 
-# we will eventually move this puzzle code in OOPS ( object oriented principles, so we are starting class)
+
 
 class Puzzle_Solve:
     #https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/  read it
